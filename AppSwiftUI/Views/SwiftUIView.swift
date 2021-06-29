@@ -23,3 +23,4 @@ struct SwiftUIView_Previews: PreviewProvider {
         SwiftUIView(image: Image("turtlerock"))
     }
 }
+
