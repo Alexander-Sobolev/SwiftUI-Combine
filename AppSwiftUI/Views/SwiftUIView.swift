@@ -18,6 +18,8 @@ struct SwiftUIView: View {
     }
 }
 
+
+
 struct SwiftUIView_Previews: PreviewProvider {
     static var previews: some View {
         SwiftUIView(image: Image("turtlerock"))
